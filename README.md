@@ -8,3 +8,9 @@ print(random.choice(colors))
 nums = [1,2,3,4,5]
 random.shuffle(nums)
 print(nums)
+#random()
+print(random.random())
+fruits = ["apple","banana","grapes","pineapple"]
+print(random.choice(fruits))
+random.shuffle(fruits)
+print(fruits)
